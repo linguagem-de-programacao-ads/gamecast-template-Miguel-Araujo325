@@ -153,3 +153,19 @@ nav {
 }
 
 /* ADICIONAR EVENTO - Inserir CSS da página de adicionar*/
+.formularioAdd{
+/*    background-color: red; */
+    display: flex;
+    justify-content: center;
+    color: var(--off-white);
+    font-family: var(--font-defaut);
+    
+    form{
+        display: flex;
+        /* background-color: aqua; */
+        /* padding: 5px;*/
+        width: 40%;
+        flex-direction: column;
+    }
+}
+
